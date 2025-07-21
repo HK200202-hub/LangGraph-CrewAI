@@ -12,10 +12,7 @@ Welcome to the LangChain repository! This repo contains all the code examples yo
 
 ## Getting Started
 
-### Prerequisites
 
-- Python 3.10 or 3.11
-- Poetry (Follow this [Poetry installation tutorial](https://python-poetry.org/docs/#installation) to install Poetry on your system)
 
 ### Installation
 
@@ -133,3 +130,4 @@ A: Yes! Contributions are welcome. Please open an issue or submit a pull request
 **Q: Where can I find more information about LangChain?**  
 A: Check out the official LangChain documentation and join the Skool community for additional resources and support.
 
+##License is under Subjected to Hari Krishna Yakkanti
